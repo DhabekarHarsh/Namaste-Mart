@@ -1,10 +1,2 @@
-# Simple-e-Commerce-Website-using-React-and-Ant-Design
-This repo contains code base regarding youtube tutorial (https://youtu.be/maTYhCuHEGw) on how to create a simple e-commerce website using Ant Design in React JS app.
-
-The main features includes:
-- App Header with Menu and view cart button 
-- App Footer with static links
-- App routing using react-router-dom
-- API integration to fetch data from server
-- Show list of cards/e-commerce products with their details/actions
-
+![image](https://github.com/DhabekarHarsh/Namaste-Mart/assets/86256300/37f380cf-44c6-4035-a3db-f80d4a34c05f)
+![image](https://github.com/DhabekarHarsh/Namaste-Mart/assets/86256300/f6d28306-3647-4e3d-a6c9-25f38ef3f24c)
